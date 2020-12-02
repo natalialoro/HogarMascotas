@@ -87,9 +87,9 @@
                         <div class="col-12 col-md-6">
                             <select class="form-control" name="tipo">
                                 <option value="0">No aplica</option>
-                                <option value="Perros">Perros</option>
-                                <option value="Gatos">Gatos</option>
-                                <option value="Fauna Silvestre">Fauna Silvestre</option>
+                                <option value="PERROS">Perros</option>
+                                <option value="GATOS">Gatos</option>
+                                <option value="FAUNA SILVESTRE">Fauna Silvestre</option>
                             </select>
                         </div>
                     </div>
